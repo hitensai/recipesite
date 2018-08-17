@@ -12,6 +12,9 @@ gem 'puma', '~> 3.11'
 gem 'haml', '~> 5.0', '>= 5.0.4'
 gem 'simple_form', '~> 4.0', '>= 4.0.1'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
+gem 'paperclip', '~> 6.1'
+gem 'cocoon', '~> 1.2', '>= 1.2.11'
+gem 'jquery-rails', '~> 4.3', '>= 4.3.3'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
