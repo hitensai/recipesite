@@ -10,6 +10,8 @@ gem 'sqlite3'
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
 gem 'haml', '~> 5.0', '>= 5.0.4'
+gem 'simple_form', '~> 4.0', '>= 4.0.1'
+gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
